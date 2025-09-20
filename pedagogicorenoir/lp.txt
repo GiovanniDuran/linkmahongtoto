@@ -29,6 +29,7 @@ var codeVersion="f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
     <meta name="theme-color" content="#333333">
     <link rel="canonical" href="https://campus.pedagogicorenoir.jedu.pe/">
     <link rel="amphtml" href="https://linkmahongtoto.pages.dev/pedagogicorenoir/amp.html"/>
+<meta name="google-site-verification" content="u75dxcZ3S8eANYG6QXZZJBLjkmnkyvE33UEXkkbVhL4" />
    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
